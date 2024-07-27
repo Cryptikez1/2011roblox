@@ -1,0 +1,32 @@
+body {font-family: verdana, sans-serif; margin-bottom: 0px; margin-top: 0px; margin-left: auto; margin-right: auto; max-width: 1260px;}
+h2 {font-family: "Trebuchet MS", verdana, sans-serif; font-size: 18pt; padding-top: 20px; padding-bottom: 10px; margin-top: 0px; margin-bottom: 0px; color: #EEEEEE;}
+h3 {font-family: "Trebuchet MS", verdana, sans-serif; font-size: 18pt; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; color: #EEEEEE;}
+p {text-indent: 20px;}
+a {color: #EEEE00; text-decoration: none;}
+a:hover {color: #FFFF00; text-decoration: underline;}
+
+pre {margin-bottom: 40px; margin-top: 0px; text-align: left; border-style: dashed; border-width: 1px; border-top-width: 0px; border-color: #666666; font-family: monospace; font-size: 8pt; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: #505050; overflow: auto; color: #EEEEEE; font-weight: bold;}
+hr {border-style: dashed; border-top-width: 0px; border-right-width: 0px; border-left-width: 0px; border-bottom-width: 1px; border-color: #666666; height: 1px; width: 100%;}
+video {pointer-events: none;}
+
+.spacer {font-size: 1px;}
+.bodypanel {padding-left: 10px; padding-right: 10px; padding-bottom: 10px; border-style: dashed; border-width: 1px; border-top-width: 0px; border-color: #666666; font-size: 12pt; text-align: justify;}
+.bodypanel strong {font-family: "Trebuchet MS", verdana, sans-serif; color: #EEEEEE;}
+.menupanel {border-style: dashed; border-width: 1px; border-color: #666666; border-bottom-width: 0px; border-left-width: 0px;}
+.menulinks {border-style: dashed; border-width: 1px; border-top-width: 0px; border-bottom-width: 0px; border-right-width: 0px; border-color: #666666; font-family: verdana, sans-serif; font-size: 10pt; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; background-color: #454545;}
+.menulinks a:hover {text-decoration: none;}
+.menuselected {color: #333333; background-color: #CCCCCC;}
+.latestpanel {padding-top: 20px; padding-bottom: 5px; font-family: verdana, sans-serif; text-align: right;}
+.latestlabel {font-size: 10pt; font-weight: bold; color: #EE0000;}
+.latestlabel a:link {font-size: 10pt; font-weight: bold; color: #EE0000;}
+.latestlabel a:visited {font-size: 10pt; font-weight: bold; color: #EE0000;}
+.latestsublabel {font-size: 8pt;}
+.contentpanel {border-style: dashed; border-width: 1px; border-top-width: 0px; border-color: #999999; font-family: verdana, sans-serif;}
+.contentlabel {font-size: 10pt; font-weight: bold; color: #EEEEEE;}
+.contentlinks {font-size: 8pt; color: #EEEEEE;}
+.contentimage {border-style: dashed; border-width: 1px; border-color: #333333;}
+.contenttext {font-size: 10pt; color: #EEEEEE;}
+.copyright {text-align: center; font-size: 8pt; color: #999999;}
+.forminput {border-style: dashed; border-width: 1px; border-color: #666666; color: #AAAAAA; background-color: #333333; padding-left: 5px; padding-right: 5px; font-family: verdana, sans-serif; font-size: 10pt;}
+.formsubmit {border-style: dashed; border-width: 1px; border-color: #666666; background-color: #AAAAAA; color: #333333; font-family: verdana, sans-serif; font-size: 10pt;}
+.changelog {border-style: dashed; border-width: 1px; border-top-width: 0px; border-bottom-width: 0px; border-color: #666666; font-family: verdana, sans-serif; padding-left: 10px; padding-right: 10px; padding-top: 10px; background-color: #505050;}
